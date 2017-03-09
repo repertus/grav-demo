@@ -7,7 +7,8 @@ content:
         dir: desc
 ---
 
-			<p><span style="color: rgb(31, 73, 125);">Hello</span></p>																		
+						<p><span style="color: rgb(229, 185, 183);">Hello</span></p>																		
+			
 			
 			
 			
