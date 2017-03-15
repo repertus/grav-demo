@@ -7,6 +7,3 @@ content:
         dir: desc
 ---
 
-						
-			
-			
