@@ -1,8 +1,5 @@
 ---
 title: 'Current Promos Header'
-body_classes: ''
-order_by: ''
-order_manual: ''
 content:
     items: '@self.modular'
     order:
@@ -16,5 +13,3 @@ custom_header_image:
         path: user/pages/01.current-promos/_01.promoheader/051116_wknfrcng_tvg4_lpb.jpg
 ---
 
-			
-			
