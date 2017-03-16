@@ -14,6 +14,7 @@ promo_cta:
         path: user/pages/01.current-promos/_02.masonry-grid/_state-wars-3/052416_lm_cta.png
 ---
 
-			Join and compete for over $285,000
+						Join and compete for over $285,000
 
+			
 			
