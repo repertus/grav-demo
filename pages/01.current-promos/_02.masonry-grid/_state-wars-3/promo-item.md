@@ -14,3 +14,4 @@ promo_cta:
         path: user/pages/01.current-promos/_02.masonry-grid/_state-wars-3/031716_betNow_CTA.png
 ---
 
+Join and compete for over $285,000
