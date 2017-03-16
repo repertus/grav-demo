@@ -4,9 +4,6 @@ body_classes: modular
 content:
     items: '@self.modular'
     order:
-        by: date
+        by: folder
         dir: desc
 ---
-
-			
-			
