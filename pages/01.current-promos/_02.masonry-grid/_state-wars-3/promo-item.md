@@ -1,5 +1,6 @@
 ---
 title: 'State Wars 3'
+promo_desc: 'Join and compete for over $285,000'
 promo_image:
     user/pages/01.current-promos/_02.masonry-grid/_state-wars-3/promo-item-sw3-thumb.jpg:
         name: promo-item-sw3-thumb.jpg
@@ -14,8 +15,9 @@ promo_cta:
         path: user/pages/01.current-promos/_02.masonry-grid/_state-wars-3/promo-cta-052416_wn_cta.png
 ---
 
-									Join and compete for over $285,000
+												Join and compete for over $285,000
 
+			
 			
 			
 			
