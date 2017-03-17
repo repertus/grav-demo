@@ -1,7 +1,7 @@
 ---
 title: 'State Wars 3'
 promo_desc: 'Join and compete for over $285,000'
-promo_cta: 'WATCH NOW'
+promo_cta: 'LEARN MORE'
 promo_image:
     user/pages/01.current-promos/_02.masonry-grid/_state-wars-3/promo-item-sw3-thumb.jpg:
         name: promo-item-sw3-thumb.jpg
