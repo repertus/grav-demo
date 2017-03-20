@@ -3,7 +3,7 @@ title: 'Current Promos'
 content:
     items: '@self.modular'
     order:
-        by: default
+        by: date
         dir: asc
 process:
     twig: true
