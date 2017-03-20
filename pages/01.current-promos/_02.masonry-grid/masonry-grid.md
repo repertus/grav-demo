@@ -16,5 +16,6 @@ content:
             - _money-back-special-australia
             - _los-alamitos-pick-4
             - _every-weekday-march-6-31
+            - _answer-the-call-and-get-the-cash
 ---
 
