@@ -10,5 +10,6 @@ content:
             - _state-wars-3
             - _usd100-sign-up-bonus
             - _paynearme-cvs-pharmacies
+            - _get-money-back-on-the-preps
 ---
 
