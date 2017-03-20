@@ -17,5 +17,6 @@ content:
             - _los-alamitos-pick-4
             - _every-weekday-march-6-31
             - _answer-the-call-and-get-the-cash
+            - _bet-anywhere-with-tvg-mobile
 ---
 
