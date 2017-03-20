@@ -8,5 +8,6 @@ content:
         dir: asc
         custom:
             - _fund-your-account-with-paypal
+            - _betcash
 ---
 
