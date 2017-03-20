@@ -12,5 +12,6 @@ content:
             - _paynearme-cvs-pharmacies
             - _get-money-back-on-the-preps
             - _watch-tvg-get-usd100
+            - _money-back-special-at-cheltenham
 ---
 
