@@ -2,6 +2,7 @@
 title: 'State Wars 3'
 promo_desc: 'Join and compete for over $285,000'
 promo_cta: 'LEARN MORE'
+promo_link: 'https://promos.tvg.com/StateWars3/'
 publish_date: '03/16/2017 02:54 pm'
 dateformat: 'm/d/Y h:i a'
 promo_image:
