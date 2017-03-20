@@ -5,5 +5,5 @@ content:
     items: '@self.modular'
     order:
         by: folder
-        dir: desc
+        dir: asc
 ---
