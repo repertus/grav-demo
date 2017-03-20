@@ -15,5 +15,6 @@ content:
             - _money-back-special-at-cheltenham
             - _money-back-special-australia
             - _los-alamitos-pick-4
+            - _every-weekday-march-6-31
 ---
 
