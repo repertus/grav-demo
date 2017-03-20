@@ -8,7 +8,7 @@ content:
         dir: asc
         custom:
             - _state-wars-3
-            - _paynearme-cvs-pharmacies
             - _usd100-sign-up-bonus
+            - _paynearme-cvs-pharmacies
 ---
 
