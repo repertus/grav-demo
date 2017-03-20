@@ -6,7 +6,7 @@ content:
     order:
         by: default
         dir: asc
+        custom:
+            - _fund-your-account-with-paypal
 ---
 
-			
-			
