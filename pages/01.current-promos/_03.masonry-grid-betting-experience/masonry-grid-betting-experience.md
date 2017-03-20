@@ -9,5 +9,6 @@ content:
         custom:
             - _fund-your-account-with-paypal
             - _betcash
+            - _tvg-winners-circle
 ---
 
