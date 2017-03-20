@@ -4,6 +4,10 @@ body_classes: modular
 content:
     items: '@self.modular'
     order:
-        by: folder
+        by: default
         dir: asc
+        custom:
+            - _state-wars-3
+            - _usd100-sign-up-bonus
 ---
+
