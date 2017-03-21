@@ -2,7 +2,12 @@
 title: 'Preps Additional Details'
 ---
 
-<table class="table table-striped body-text main-copy" style="font-size: 18px; margin-top: 20px;">
+<div class="col-md-10" style="border: 0px solid #0a50a3; padding-top: 50px; padding-bottom: 20px;">
+                            <div style="text-align: center; font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif; font-size: 22px; line-height: 28px; font-weight: 700; color: #0b4b8b;">
+                                ELIGIBLE MONEY BACK SPECIAL RACES<sup>2</sup>
+                            </div>
+
+                            <table class="table table-striped body-text main-copy" style="font-size: 18px; margin-top: 20px;">
                         
                         
 <thead><tr class="tableizer-firstrow"><th>Date</th><th>Race</th><th>Track</th></tr></thead><tbody>
@@ -37,3 +42,8 @@ title: 'Preps Additional Details'
 </tbody>
 
 </table>
+                            <p class="note-text">1 - If a race has fewer than 7 betting interests, no refund will be issued for a 3rd place finish.<br>
+2 - If a race has fewer than 5 betting interests, race shall no longer be eligible.</p>
+                           
+                            
+                        </div>
