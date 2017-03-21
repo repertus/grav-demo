@@ -1,9 +1,9 @@
 ---
 title: 'Preps Promo'
-promo_subtitle: "<p>Hello</p>\t\t\t\r\n\t\t\t"
+promo_subtitle: "\t\t\t<p><b>Hello</b></p>\t\t\t\r\n\t\t\t\r\n\t\t\t"
 promo_how-to-play-toggle: false
-promo_how-to-play-rules: "\t\t\t\t\t\t\t\t\t\t\t\t1. Opt In\r\n2. Place a WIN wager on a single horse\r\n3. Refund up to $15 if you finish 2nd2 or 3rd1\r\n4. Opt in once to be eligible for all races\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t"
-promo_details: "\t\t\t\t\t\t\t\t\t\t\t\tBet Derby Preps with confidence when you play at the Home of the Money Back Special! We’ll **refund your win bet when you finish 2nd or 3rd** in all eligible Derby Preps. Just **opt in below** then bet to win on any eligible Derby Prep. If your first win wager on a race finishes 2nd or 3rd we’ll **refund you up to $15 per race!**\r\n\r\nPlease note: Moneyback for 3rd place is not available on races with less than 7 betting interests. Races must have 5 or more betting interests for moneyback for 2nd place. \r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t"
+promo_how-to-play-rules: "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1. Opt In\r\n2. Place a WIN wager on a single horse\r\n3. Refund up to $15 if you finish 2nd2 or 3rd1\r\n4. Opt in once to be eligible for all races\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t"
+promo_details: "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBet Derby Preps with confidence when you play at the Home of the Money Back Special! We’ll **refund your win bet when you finish 2nd or 3rd** in all eligible Derby Preps. Just **opt in below** then bet to win on any eligible Derby Prep. If your first win wager on a race finishes 2nd or 3rd we’ll **refund you up to $15 per race!**\r\n\r\nPlease note: Moneyback for 3rd place is not available on races with less than 7 betting interests. Races must have 5 or more betting interests for moneyback for 2nd place. \r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t"
 promo_cta: 'OPT IN NOW'
 process:
     markdown: true
