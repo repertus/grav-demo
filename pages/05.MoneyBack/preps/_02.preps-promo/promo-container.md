@@ -8,6 +8,7 @@ promo_cta: 'OPT IN NOW'
 process:
     markdown: true
     twig: true
+twig_first: false
 promo_sub-title: "\t\t\t\t\t\t<h1>GET YOUR WIN BET BACK IF YOUR HORSE COMES IN 2ND OR 3RD\r\n\t\t\t</h1>\r\n\t\t\t\r\n\t\t\t"
 ---
 
