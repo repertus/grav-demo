@@ -2,7 +2,7 @@
 title: 'Preps Additional Details'
 ---
 
-<div class="col-md-10" style="border: 0px solid #0a50a3; padding-top: 50px; padding-bottom: 20px;">
+<div class="col-md-10 col-offest-md-1" style="border: 0px solid #0a50a3; padding-top: 50px; padding-bottom: 20px;">
                             <div style="text-align: center; font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif; font-size: 22px; line-height: 28px; font-weight: 700; color: #0b4b8b;">
                                 ELIGIBLE MONEY BACK SPECIAL RACES<sup>2</sup>
                             </div>
