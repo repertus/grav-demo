@@ -2,32 +2,38 @@
 title: 'Preps Additional Details'
 ---
 
-## ELIGIBLE MONEY BACK SPECIAL RACES2
-|  Date  |  Race  |  Track  |
-|  :-----          |  :-----          |  :-----          |
-|  January 2 | Jerome | Aqueduct |
-January 7	Sham	Santa Anita Park
-January 16	Smarty Jones	Oaklawn Park
-January 21	Lecomte	Fair Grounds
-February 4	Withers	Aqueduct
-February 4	Holy Bull	Gulfstream Park
-February 4	Robert B. Lewis	Santa Anita Park
-February 11	Sam F. Davis	Tampa Bay Downs
-February 18	El Camino Real Derby	Golden Gate Fields
-February 20	Southwest	Oaklawn Park
-February 25	Risen Star	Fair Grounds
-March 4	Fountain of Youth	Gulfstream Park
-March 4	Gotham	Aqueduct
-March 11	Tampa Bay Derby	Tampa Bay Downs
-March 11	San Felipe	Santa Anita Park
-March 18	Rebel	Oaklawn Park
-March 25	UAE Derby	Meydan Racecourse
-March 25	Spiral	Turfway Park
-March 26	Sunland Derby	Sunland Park
-April 1	Florida Derby	Gulfstream Park
-April 1	Louisiana Derby	Fair Grounds
-April 8	Wood Memorial	Aqueduct
-April 8	Blue Grass	Keeneland
-April 8	Santa Anita Derby	Santa Anita Park
-April 15	Arkansas Derby	Oaklawn Park
-April 15	Lexington	Keeneland
+<table class="table table-striped body-text main-copy" style="font-size: 18px; margin-top: 20px;">
+                        
+                        
+<thead><tr class="tableizer-firstrow"><th>Date</th><th>Race</th><th>Track</th></tr></thead><tbody>
+ <tr>
+   <td>January 2</td><td>Jerome</td><td>Aqueduct</td></tr>
+ <tr><td>January 7</td><td>Sham</td><td>Santa Anita Park</td></tr>
+ <tr><td>January 16</td><td>Smarty Jones</td><td>Oaklawn Park</td></tr>
+ <tr><td>January 21</td><td>Lecomte</td><td>Fair Grounds</td></tr>
+ <tr>
+   <td>February 4</td><td>Withers</td><td>Aqueduct</td></tr>
+ <tr><td>February 4</td><td>Holy Bull</td><td>Gulfstream Park</td></tr>
+ <tr><td>February 4</td><td>Robert B. Lewis</td><td>Santa Anita Park</td></tr>
+ <tr><td>February 11</td><td>Sam F. Davis</td><td>Tampa Bay Downs</td></tr>
+ <tr><td>February 18</td><td>El Camino Real Derby</td><td>Golden Gate Fields</td></tr>
+ <tr><td>February 20</td><td>Southwest</td><td>Oaklawn Park</td></tr>
+ <tr><td>February 25</td><td>Risen Star</td><td>Fair Grounds</td></tr>
+ <tr><td>March 4</td><td>Fountain of Youth</td><td>Gulfstream Park</td></tr>
+ <tr><td>March 4</td><td>Gotham</td><td>Aqueduct</td></tr>
+ <tr><td>March 11</td><td>Tampa Bay Derby</td><td>Tampa Bay Downs</td></tr>
+ <tr><td>March 11</td><td>San Felipe</td><td>Santa Anita Park</td></tr>
+ <tr><td>March 18</td><td>Rebel</td><td>Oaklawn Park</td></tr>
+ <tr><td>March 25</td><td>UAE Derby</td><td>Meydan Racecourse</td></tr>
+ <tr><td>March 25</td><td>Spiral</td><td>Turfway Park</td></tr>
+ <tr><td>March 26</td><td>Sunland Derby</td><td>Sunland Park</td></tr>
+ <tr><td>April 1</td><td>Florida Derby</td><td>Gulfstream Park</td></tr>
+ <tr><td>April 1</td><td>Louisiana Derby</td><td>Fair Grounds</td></tr>
+ <tr><td>April 8</td><td>Wood Memorial</td><td>Aqueduct</td></tr>
+ <tr><td>April 8</td><td>Blue Grass</td><td>Keeneland</td></tr>
+ <tr><td>April 8</td><td>Santa Anita Derby</td><td>Santa Anita Park</td></tr>
+ <tr><td>April 15</td><td>Arkansas Derby</td><td>Oaklawn Park</td></tr>
+ <tr><td>April 15</td><td>Lexington</td><td>Keeneland</td></tr>
+</tbody>
+
+</table>
