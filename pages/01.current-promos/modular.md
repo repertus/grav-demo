@@ -1,5 +1,5 @@
 ---
-title: 'Current Promos'
+title: 'Horse Racing Betting Promotions'
 content:
     items: '@self.modular'
     order:
