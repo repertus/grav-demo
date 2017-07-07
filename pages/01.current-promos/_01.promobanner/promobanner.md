@@ -1,5 +1,5 @@
 ---
-title: promobanner
+title: 'Promo Banner'
 body_classes: modular
 content:
     items: '@self.modular'
