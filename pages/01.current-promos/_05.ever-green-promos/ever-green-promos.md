@@ -5,6 +5,5 @@ content:
     order:
         by: date
         dir: desc
-body_classes: modular
 ---
 
