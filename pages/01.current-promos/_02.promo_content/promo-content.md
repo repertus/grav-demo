@@ -1,5 +1,5 @@
 ---
-title: feature-acq-promo-div
+title: 'Promo Content'
 body_classes: modular
 content:
     items: '@self.modular'
