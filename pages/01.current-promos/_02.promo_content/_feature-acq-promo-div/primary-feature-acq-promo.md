@@ -6,5 +6,8 @@ content:
     order:
         by: date
         dir: desc
+        custom:
+            - _feature-promo
+            - _acquisition-promo
 ---
 
