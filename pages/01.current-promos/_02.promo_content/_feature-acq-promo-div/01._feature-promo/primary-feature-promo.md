@@ -1,5 +1,5 @@
 ---
-title: 'Summer Series'
+title: 'Feature Promo'
 body_classes: modular
 content:
     items: '@self.modular'
