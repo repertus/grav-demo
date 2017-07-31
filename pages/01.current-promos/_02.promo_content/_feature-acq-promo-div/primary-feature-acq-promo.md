@@ -4,7 +4,7 @@ body_classes: modular
 content:
     items: '@self.modular'
     order:
-        by: date
+        by: default
         dir: desc
         custom:
             - _feature-promo
