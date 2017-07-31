@@ -1,9 +1,7 @@
 ---
-title: ever-green-promos
-content:
-    items: '@self.modular'
-    order:
-        by: date
-        dir: desc
+title: ''
+body_classes: ''
+order_by: ''
+order_manual: ''
 ---
 
