@@ -1,6 +1,8 @@
 ---
 title: 'Feature Promo'
 published: true
+publish_date: '08/01/2017 03:54 pm'
+unpublish_date: '08/01/2017 03:56 pm'
 body_classes: modular
 content:
     items: '@self.modular'
