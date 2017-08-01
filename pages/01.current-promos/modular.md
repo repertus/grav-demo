@@ -1,5 +1,5 @@
 ---
-title: 'Horse Racing Betting Promotions HEy'
+title: 'Horse Racing Betting Promotions'
 content:
     items: '@self.modular'
     order:
