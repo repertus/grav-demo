@@ -1,10 +1,10 @@
 ---
 title: 'Promo Banner'
+body_classes: modular
 promo_talent_alt: 'Images of TVG talent'
 vertical_talent_position: 0%
 promo_text_alt: 'Text image displaying "Checkout our current promotions"'
 vertical_text_position: 12%
-body_classes: modular
 promo_talent:
     user/pages/01.current-promos/_01.promobanner/042517-derbyAfterParty_talent.png:
         name: 042517-derbyAfterParty_talent.png
