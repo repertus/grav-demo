@@ -1,6 +1,6 @@
 ---
 title: 'Feature Promo'
-published: false
+published: true
 body_classes: modular
 content:
     items: '@self.modular'
