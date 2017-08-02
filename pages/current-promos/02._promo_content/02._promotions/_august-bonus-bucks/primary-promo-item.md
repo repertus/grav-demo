@@ -1,5 +1,5 @@
 ---
 title: 'August Bonus Bucks'
-promo_sub_title: '###### hello'
+promo_desc: "\r\n\t\t\t"
 ---
 
